@@ -1,0 +1,18 @@
+# for sure it works not as expected
+tiles:
+  overworld:
+    - id: 1
+      name: grass
+      x: 4
+      y: 1
+      walkable: true
+    - id: 2
+      name: flowers
+      x: 5
+      y: 4
+      walkable: true
+    - id: 3
+      name: path
+      x: 5
+      y: 0
+      walkable: true

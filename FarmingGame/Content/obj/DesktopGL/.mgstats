@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Kamil/RiderProjects/meeting-app/FarmingGame/FarmingGame/Content/overworld-items.png","C:/Users/Kamil/RiderProjects/meeting-app/FarmingGame/FarmingGame/Content/bin/DesktopGL/overworld-items.xnb","TextureProcessor","Texture2DContent",86563,1048661,0,1372232
+"C:/Users/Kamil/RiderProjects/meeting-app/FarmingGame/FarmingGame/Content/overworld-plants.png","C:/Users/Kamil/RiderProjects/meeting-app/FarmingGame/FarmingGame/Content/bin/DesktopGL/overworld-plants.xnb","TextureProcessor","Texture2DContent",65183,1048661,0,0209789
